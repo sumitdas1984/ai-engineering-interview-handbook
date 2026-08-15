@@ -36,3 +36,18 @@ When adding a new note, place it inside the relevant topic folder and follow thi
 - Keep edits in Markdown. Prefer relative links between topic notes rather than absolute paths.
 - The root `README.md` is the table of contents and the canonical source for the topic list and topic format. Update it when adding or renaming topics.
 - Topic-level `README.md` files are placeholders (`Add interview preparation notes here.`) until real content is added per the topic format above.
+
+## Interview Brush-Up Doc Naming
+
+Interview brush-up notes follow a uniform filename pattern so they are easy to find and sort:
+
+`<Topic Name> interview brushup guide.md`
+
+Rules:
+- Use **spaces**, not underscores or hyphens, between words.
+- The **topic name is Title Case** (e.g. `Tree Based Classifier`, `MCP`, `RAG`).
+- The suffix `interview brushup guide` is **lowercase** and identical for every file.
+- Place the file directly in the relevant topic folder.
+- Reference example: `ml-dl-nlp/Tree Based Classifier interview brushup guide.md`.
+
+When adding a new brush-up doc, follow this pattern. When renaming or refactoring old ones (e.g. `MCP_Interview_Brush_Up_Guide.md`, `RAG_Interview_Brush_Up_Guide.md`), convert them to the same pattern.
