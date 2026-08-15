@@ -14,7 +14,7 @@ Topics (defined in the root `README.md`):
 - `dsa/` — DSA & Complexity
 - `system-design/` — System Design
 - `ml-dl-nlp/` — ML, DL & NLP
-- `aws/` — AWS / Cloud Concepts
+- `cloud/` — Cloud (AWS primary, Azure as cross-reference)
 - `genai-agenticai/` — GenAI & Agentic AI
 - `project-experience/` — Previous Company Project Experience
 

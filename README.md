@@ -6,7 +6,7 @@ Single source of truth for AI Engineering interview preparation.
 - DSA & Complexity
 - System Design
 - ML, DL & NLP
-- AWS / Cloud Concepts
+- Cloud (AWS primary, Azure as cross-reference)
 - GenAI & Agentic AI
 - Previous Company Project Experience
 
