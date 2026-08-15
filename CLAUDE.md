@@ -41,13 +41,15 @@ When adding a new note, place it inside the relevant topic folder and follow thi
 
 Interview brush-up notes follow a uniform filename pattern so they are easy to find and sort:
 
-`<Topic Name> interview brushup guide.md`
+`<Topic_Name>_Interview_Brush_Up_Guide.md`
 
 Rules:
-- Use **spaces**, not underscores or hyphens, between words.
-- The **topic name is Title Case** (e.g. `Tree Based Classifier`, `MCP`, `RAG`).
-- The suffix `interview brushup guide` is **lowercase** and identical for every file.
+- Use **underscores** (`_`) between words — not spaces, not hyphens.
+- Every word is **Title Case**, including the suffix: `Interview`, `Brush`, `Up`, `Guide`.
 - Place the file directly in the relevant topic folder.
-- Reference example: `ml-dl-nlp/Tree Based Classifier interview brushup guide.md`.
+- Reference examples already in the repo:
+  - `genai-agenticai/MCP_Interview_Brush_Up_Guide.md`
+  - `genai-agenticai/RAG_Interview_Brush_Up_Guide.md`
+  - `ml-dl-nlp/Tree_Based_Classifier_Interview_Brush_Up_Guide.md`
 
-When adding a new brush-up doc, follow this pattern. When renaming or refactoring old ones (e.g. `MCP_Interview_Brush_Up_Guide.md`, `RAG_Interview_Brush_Up_Guide.md`), convert them to the same pattern.
+When adding a new brush-up doc, follow this pattern exactly.
