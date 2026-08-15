@@ -5,8 +5,7 @@ Single source of truth for AI Engineering interview preparation.
 ## Topics
 - DSA & Complexity
 - System Design
-- Traditional ML
-- Deep Learning
+- ML, DL & NLP
 - AWS / Cloud Concepts
 - GenAI & Agentic AI
 - Previous Company Project Experience

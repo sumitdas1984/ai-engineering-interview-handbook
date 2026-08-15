@@ -13,8 +13,7 @@ The repo is flat by design: one folder per interview topic, each containing its 
 Topics (defined in the root `README.md`):
 - `dsa/` — DSA & Complexity
 - `system-design/` — System Design
-- `traditional-ml/` — Traditional ML
-- `deep-learning/` — Deep Learning
+- `ml-dl-nlp/` — ML, DL & NLP
 - `aws/` — AWS / Cloud Concepts
 - `genai-agenticai/` — GenAI & Agentic AI
 - `project-experience/` — Previous Company Project Experience
