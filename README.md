@@ -8,8 +8,7 @@ Single source of truth for AI Engineering interview preparation.
 - Traditional ML
 - Deep Learning
 - AWS / Cloud Concepts
-- GenAI
-- Agentic AI
+- GenAI & Agentic AI
 - Previous Company Project Experience
 
 ## Topic Format

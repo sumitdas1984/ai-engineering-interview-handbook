@@ -16,8 +16,7 @@ Topics (defined in the root `README.md`):
 - `traditional-ml/` — Traditional ML
 - `deep-learning/` — Deep Learning
 - `aws/` — AWS / Cloud Concepts
-- `genai/` — GenAI
-- `agentic-ai/` — Agentic AI
+- `genai-agenticai/` — GenAI & Agentic AI
 - `project-experience/` — Previous Company Project Experience
 
 ## Topic Format (Authoring Convention)
