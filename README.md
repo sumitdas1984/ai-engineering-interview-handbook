@@ -8,7 +8,7 @@ Single source of truth for AI Engineering interview preparation.
 - ML, DL & NLP
 - Cloud (AWS primary, Azure as cross-reference)
 - GenAI & Agentic AI
-- Previous Company Project Experience
+- Projects
 
 ## Topic Format
 Each topic should ideally contain:

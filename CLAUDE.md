@@ -16,7 +16,7 @@ Topics (defined in the root `README.md`):
 - `ml-dl-nlp/` — ML, DL & NLP
 - `cloud/` — Cloud (AWS primary, Azure as cross-reference)
 - `genai-agenticai/` — GenAI & Agentic AI
-- `project-experience/` — Previous Company Project Experience
+- `projects/` — Projects
 
 ## Topic Format (Authoring Convention)
 

@@ -1,3 +1,3 @@
-# Previous Company Project Experience
+# Projects
 
 Add interview preparation notes here.
