@@ -330,22 +330,33 @@ For a moderate 20–40 page document, **whole-document prompting** can be reason
 
 ## 17. Interview Questions You Should Be Ready For
 
-- Is chunking mandatory in RAG?
-- Why do we chunk documents?
-- What is `RecursiveCharacterTextSplitter` in LangChain?
-- How does recursive chunking work?
-- What are the common chunking strategies?
-- How do you choose chunk size and chunk overlap?
-- What is an embedding?
-- What is the difference between a vector database and a retriever?
-- What is Top-K retrieval?
-- What is metadata filtering?
-- What is a score threshold?
-- What is hybrid search and why use BM25?
-- What is reranking?
-- What is the difference between a retriever and a reranker?
-- Does a vector database use cosine similarity or dot product?
-- When would you use whole-document long-context prompting instead of chunk-based RAG?
+🔹 What is RAG and why do we need it?
+🔹 RAG vs Fine-tuning — when would you choose which?
+🔹 Explain the complete RAG architecture.
+🔹 How do you decide chunk size and chunk overlap?
+🔹 What are embeddings and how do they work?
+🔹 How does vector similarity search work?
+🔹 How do you choose Top-K?
+🔹 What is Hybrid Search?
+🔹 What is Hybrid RAG and how is it different from Hybrid Search?
+🔹 Why do we need reranking?
+🔹 What is Query Rewriting and why is it useful?
+🔹 How do you improve poor retrieval quality?
+🔹 How do you reduce hallucinations in RAG?
+🔹 How do you handle questions when relevant information is not available in the knowledge base?
+🔹 How do you evaluate Retriever performance?
+🔹 How do you evaluate the final LLM response?
+🔹 How do you identify whether an issue is with Retrieval or Generation?
+🔹 How would you handle a large context window?
+🔹 How do you reduce latency in a production RAG system?
+🔹 How would you scale RAG from 100 queries to 100K+ queries?
+🔹 How would you scale a vector database from 10K to 1M+ documents?
+🔹 Where would you use caching in RAG?
+🔹 How do you monitor a RAG system in production?
+🔹 What are common security risks in RAG?
+🔹 What is Prompt Injection and how do you prevent it?
+🔹 How do you implement Guardrails in a RAG application?
+🔹 How would you design a multi-tenant RAG system?
 
 ---
 
