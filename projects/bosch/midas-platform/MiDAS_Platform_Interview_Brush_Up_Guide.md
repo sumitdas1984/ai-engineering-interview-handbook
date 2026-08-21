@@ -130,7 +130,7 @@ Team D ─────────────►│              │
 | **Developer productivity** | Teams focus on use cases instead of infrastructure |
 | **Operational maturity** | Common monitoring, tracing and reliability patterns |
 
-The project notes explicitly frame MiDAS around reusable platform services and avoiding duplicated AI infrastructure. fileciteturn9file2
+The project notes explicitly frame MiDAS around reusable platform services and avoiding duplicated AI infrastructure.
 
 ---
 
@@ -171,7 +171,7 @@ Code
      └── Assistance
 ```
 
-The project notes describe MiDAS as an enterprise AI platform focused on software engineering across Bosch. fileciteturn9file12
+The project notes describe MiDAS as an enterprise AI platform focused on software engineering across Bosch.
 
 ---
 
