@@ -306,6 +306,8 @@ For a moderate 20–40 page document, **whole-document prompting** can be reason
 
 `Retrieved Context + Instructions + User Query → LLM → Final Answer`
 
+![RAG pipeline — end-to-end flow from documents through indexing, retrieval, and generation to the final answer](images/rag-pipeline.jpeg)
+
 ---
 
 ## 16. One-Line Definitions for Fast Revision
